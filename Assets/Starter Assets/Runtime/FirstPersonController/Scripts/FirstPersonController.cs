@@ -110,7 +110,7 @@ namespace StarterAssets
 			_fallTimeoutDelta = FallTimeout;
 		}
 
-		private void Update()
+        private void Update()
 		{
 			JumpAndGravity();
 			GroundedCheck();
