@@ -14,6 +14,9 @@ public class MasterTrigger : MonoBehaviour
     public GameObject uiObject;
     public float displayTime = 5f;
 
+    [Header("Score Settings")]
+    public int pointsToGive = 1; // You can change this in the Inspector
+
     private bool hasTriggered = false;
 
     void Start()
@@ -23,12 +26,18 @@ public class MasterTrigger : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        // Prevent double-triggering while the Coroutine is running
         if (hasTriggered) return;
 
         if (!String.IsNullOrEmpty(tagFilter) && !other.CompareTag(tagFilter)) return;
 
         hasTriggered = true;
+
+        // --- NEW POINT LOGIC ---
+        if (ScoreManager.instance != null)
+        {
+            ScoreManager.instance.AddScore(pointsToGive);
+        }
+        // -----------------------
 
         // 1. Run your Spawning (via the UnityEvent in Inspector)
         onTriggerEnter.Invoke();
@@ -40,7 +49,6 @@ public class MasterTrigger : MonoBehaviour
         }
         else if (destroyOnTriggerEnter)
         {
-            // If there's no UI to wait for, destroy immediately
             Destroy(gameObject);
         }
     }
@@ -53,7 +61,6 @@ public class MasterTrigger : MonoBehaviour
 
         uiObject.SetActive(false);
 
-        // 3. NOW destroy the trigger, after the UI is done!
         if (destroyOnTriggerEnter)
         {
             Destroy(gameObject);
