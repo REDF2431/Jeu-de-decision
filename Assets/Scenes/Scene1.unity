@@ -8300,90 +8300,6 @@ MonoBehaviour:
     OnDayEnd:
       m_PersistentCalls:
         m_Calls: []
-  - dayLabel: Day 1
-    spawnPoint: {fileID: 945286484}
-    tasks:
-    - {fileID: 1759827017}
-    - {fileID: 1607768071}
-    - {fileID: 1508997479}
-    OnDayStart:
-      m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 33621884}
-          m_TargetAssemblyTypeName: ObjectVisibility, Assembly-CSharp
-          m_MethodName: Show
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-    OnDayEnd:
-      m_PersistentCalls:
-        m_Calls: []
-  - dayLabel: Day 2
-    spawnPoint: {fileID: 945286484}
-    tasks:
-    - {fileID: 1676899525}
-    - {fileID: 896173978}
-    - {fileID: 910471831}
-    OnDayStart:
-      m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 1437151308}
-          m_TargetAssemblyTypeName: ObjectVisibility, Assembly-CSharp
-          m_MethodName: Show
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-        - m_Target: {fileID: 1882239050}
-          m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-          m_MethodName: SetActive
-          m_Mode: 6
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 1
-          m_CallState: 2
-        - m_Target: {fileID: 360309146}
-          m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-          m_MethodName: SetActive
-          m_Mode: 6
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 1
-          m_CallState: 2
-        - m_Target: {fileID: 674080337}
-          m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-          m_MethodName: SetActive
-          m_Mode: 6
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 1
-          m_CallState: 2
-    OnDayEnd:
-      m_PersistentCalls:
-        m_Calls: []
   - dayLabel: Day 4
     spawnPoint: {fileID: 945286484}
     tasks:
@@ -8462,6 +8378,126 @@ MonoBehaviour:
             m_FloatArgument: 0
             m_StringArgument: 
             m_BoolArgument: 0
+          m_CallState: 2
+    OnDayEnd:
+      m_PersistentCalls:
+        m_Calls: []
+  - dayLabel: Day 1
+    spawnPoint: {fileID: 945286484}
+    tasks:
+    - {fileID: 1759827017}
+    - {fileID: 1607768071}
+    - {fileID: 1508997479}
+    OnDayStart:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 33621884}
+          m_TargetAssemblyTypeName: ObjectVisibility, Assembly-CSharp
+          m_MethodName: Show
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+        - m_Target: {fileID: 1676656612}
+          m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_MethodName: SetActive
+          m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 1
+          m_CallState: 2
+        - m_Target: {fileID: 1175081344}
+          m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_MethodName: SetActive
+          m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 1
+          m_CallState: 2
+        - m_Target: {fileID: 854695429}
+          m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_MethodName: SetActive
+          m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 1
+          m_CallState: 2
+    OnDayEnd:
+      m_PersistentCalls:
+        m_Calls: []
+  - dayLabel: Day 2
+    spawnPoint: {fileID: 945286484}
+    tasks:
+    - {fileID: 1676899525}
+    - {fileID: 896173978}
+    - {fileID: 910471831}
+    OnDayStart:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1437151308}
+          m_TargetAssemblyTypeName: ObjectVisibility, Assembly-CSharp
+          m_MethodName: Show
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+        - m_Target: {fileID: 1882239050}
+          m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_MethodName: SetActive
+          m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 1
+          m_CallState: 2
+        - m_Target: {fileID: 360309146}
+          m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_MethodName: SetActive
+          m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 1
+          m_CallState: 2
+        - m_Target: {fileID: 674080337}
+          m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_MethodName: SetActive
+          m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 1
           m_CallState: 2
     OnDayEnd:
       m_PersistentCalls:
@@ -9079,8 +9115,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Size: {x: 0.8818755, y: 1, z: 1}
+  m_Center: {x: -2.7773697, y: 0, z: 0}
 --- !u!23 &262456463
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -10717,8 +10753,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Size: {x: 0.98740554, y: 0.99999976, z: 1}
+  m_Center: {x: -2.5532067, y: 0, z: 0}
 --- !u!23 &360309150
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -12331,7 +12367,7 @@ Transform:
   m_GameObject: {fileID: 427060997}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 127.027, y: -0.279, z: 112.951}
+  m_LocalPosition: {x: 127.027, y: -0.279, z: 114.35}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -13649,6 +13685,30 @@ MonoBehaviour:
         m_TargetAssemblyTypeName: DayTask, Assembly-CSharp
         m_MethodName: MarkComplete
         m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 2086148696}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1793506935}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -17399,10 +17459,10 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 146754796}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
+      - m_Target: {fileID: 504474142}
+        m_TargetAssemblyTypeName: DayTask, Assembly-CSharp
+        m_MethodName: MarkComplete
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -17411,10 +17471,10 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 910471831}
-        m_TargetAssemblyTypeName: DayTask, Assembly-CSharp
-        m_MethodName: MarkComplete
-        m_Mode: 1
+      - m_Target: {fileID: 146754796}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -18037,7 +18097,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 42cc68e8c08834043b5a3da009694d53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TaskTrigger
-  task: {fileID: 913923269}
+  task: {fileID: 0}
   triggerTag: Player
   triggerOnce: 1
   hideOnTrigger: 1
@@ -18880,13 +18940,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 667948975}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+  m_LocalRotation: {x: 0, y: 0.38268343, z: 0, w: 0.92387956}
   m_LocalPosition: {x: 44.2, y: 0.14, z: -435.87}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1072425995}
-  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 45, z: 0}
 --- !u!1001 &671433610
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19057,8 +19117,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.5064992, y: 0.27739868, z: 0.033180714}
-  m_Center: {x: -0.0032494268, y: 0.1162262, z: 0.006660044}
+  m_Size: {x: 0.5064992, y: 0.5395752, z: 0.19494158}
+  m_Center: {x: -0.0032494268, y: 0.24731445, z: 0.08754048}
 --- !u!23 &674080341
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -21924,8 +21984,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Size: {x: 1.0262672, y: 0.99999976, z: 1}
+  m_Center: {x: -2.7042108, y: 0, z: 0}
 --- !u!23 &801481153
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -22355,7 +22415,7 @@ Transform:
   m_GameObject: {fileID: 818566744}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -451.92, y: 3.66, z: 31.6}
+  m_LocalPosition: {x: -451.92, y: 3.66, z: 29.89}
   m_LocalScale: {x: 3.4174669, y: 4.948043, z: 0.98961073}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -22403,7 +22463,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 818566744}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -23514,8 +23574,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Size: {x: 0.8309652, y: 1, z: 1.0058147}
+  m_Center: {x: -2.6943734, y: 0, z: -0.0029073334}
 --- !u!23 &854695432
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -29684,10 +29744,10 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 146754796}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
+      - m_Target: {fileID: 504474142}
+        m_TargetAssemblyTypeName: DayTask, Assembly-CSharp
+        m_MethodName: MarkComplete
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -29696,10 +29756,10 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 910471831}
-        m_TargetAssemblyTypeName: DayTask, Assembly-CSharp
-        m_MethodName: MarkComplete
-        m_Mode: 1
+      - m_Target: {fileID: 146754796}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -30398,7 +30458,7 @@ Transform:
   m_GameObject: {fileID: 1111434685}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -392.18, y: 0.66, z: 21.45}
+  m_LocalPosition: {x: -392.18, y: -1.63, z: 21.45}
   m_LocalScale: {x: 5.2149816, y: 12.250884, z: 0.5723001}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -32784,10 +32844,10 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 146754796}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
+      - m_Target: {fileID: 504474142}
+        m_TargetAssemblyTypeName: DayTask, Assembly-CSharp
+        m_MethodName: MarkComplete
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -32796,10 +32856,10 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 910471831}
-        m_TargetAssemblyTypeName: DayTask, Assembly-CSharp
-        m_MethodName: MarkComplete
-        m_Mode: 1
+      - m_Target: {fileID: 146754796}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -42804,7 +42864,7 @@ Transform:
   m_GameObject: {fileID: 1675674136}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 75.142, y: 0.0928, z: 185.502}
+  m_LocalPosition: {x: 74.298, y: 0.329, z: 185.502}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -42999,7 +43059,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9b5cf4d8392f484b89fc25c29fba4e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DayTask
-  taskName: Prendre un verre au restorant
+  taskName: Prendre un verre au restaurant
   description: 
   moralityDelta: 0
   OnTaskStarted:
@@ -43819,6 +43879,30 @@ MonoBehaviour:
         m_TargetAssemblyTypeName: DayTask, Assembly-CSharp
         m_MethodName: MarkComplete
         m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 2086148696}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1793506935}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -48159,6 +48243,30 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 2086148696}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1793506935}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1856086514
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -48922,7 +49030,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1899884268
 Transform:
   m_ObjectHideFlags: 0
@@ -48952,7 +49060,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 42cc68e8c08834043b5a3da009694d53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TaskTrigger
-  task: {fileID: 504474142}
+  task: {fileID: 0}
   triggerTag: Player
   triggerOnce: 1
   hideOnTrigger: 0
