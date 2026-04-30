@@ -1,0 +1,6275 @@
+fileFormatVersion: 2
+guid: ede74e9330c1d46aabcdfa43fb2b5265
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_0
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1967
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9247f1f40a84a85995ac08ad46d8ac
+      internalID: -589019325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_1
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1869
+        width: 126
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a77d450e9b84297acf4e4257b6b61c
+      internalID: 1154668211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_2
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1993
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532f15d15141b40e990a1faef969d892
+      internalID: -1793180426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_3
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1967
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae336a858ea24202ae7a54487d2b463
+      internalID: 2011844472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_4
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1968
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b1e889ec3b94a32bb0721743d8e09f
+      internalID: -1232867650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_5
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1961
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53587ac087b0146b1941ab0e2a5f44e5
+      internalID: -860790026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1954
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a7fb81e64ba41e3b6f5822d92805a0
+      internalID: -1742948712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_7
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 1912
+        width: 120
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723f29181c8454ecf81c955f890a79ab
+      internalID: 301715137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_8
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1924
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e4be973c6124464b51b633e9704705
+      internalID: 1766950677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_9
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 1936
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e545b4b9e3b4a2aa920337a1a64ea1
+      internalID: -2011678011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1916
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2d23d891a874ee2b863152cd938c8b
+      internalID: 988800959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_11
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1914
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2deb2ef913d4e269d33b008e62f078
+      internalID: -545968081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_12
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1907
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b975d62d3c0054eceac59bfaccad5a8b
+      internalID: -1559422826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_13
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1920
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994d03c6940604b5591aeb3b392d698b
+      internalID: -1026453146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_14
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1875
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159bdc12229884a06accfac8e017bf56
+      internalID: -330074337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_15
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1905
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dd63e2e3c80478988d214e2153b34b
+      internalID: 1353214054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_16
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1910
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f7d96ee034640e39d5b7c4a02917d5
+      internalID: 107418515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_17
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1871
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9483e4ed64714962892dcb4233d86c8
+      internalID: -2103579919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_18
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1873
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd1b9c2a225b47bc919acc48ed5bfaa
+      internalID: -66331667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_19
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1881
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb86dd272b7cd4790bbdcb47fff40c2b
+      internalID: -738295066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_20
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 1827
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa93549b65264474bda07bf3e2609ed
+      internalID: 1171884997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_21
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 1879
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23b28ba64c9e4947a945b6244542b82
+      internalID: 2092462799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_22
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1804
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd38f8891c0cf44f49cd60024b0f95a5
+      internalID: -834212696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_23
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1855
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8897946fd57ab4e4b95bb7762dab5ad6
+      internalID: 956727536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_24
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1846
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215ad8de1d0ef489aa35d5a1de2c2329
+      internalID: -162067268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_25
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1787
+        width: 91
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634c8eb7391db4dd2b69cd445426fa50
+      internalID: 483544570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_26
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1770
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731f452a0f59847ec917bbea1934ede6
+      internalID: 970031382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_27
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1825
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff58e3448ab5342149e101c6697aa9ba
+      internalID: -228370791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_28
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1788
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55da053c146134c45bad56bc1731d37e
+      internalID: 1916338512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_29
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1808
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d80b5af26909417c8ec4c3a97ee8062
+      internalID: -660828809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_30
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1773
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2634e0cad405c4385b01a7214a3e092d
+      internalID: 275764162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_31
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1789
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8830447371e2748f79fae2d0d8058d0b
+      internalID: 1946793497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_32
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 1778
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accf07c82a6154fc9b2254dbf2fff8ee
+      internalID: 1408270250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_33
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1680
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f716f7abb3334533b553c5b4fa43346
+      internalID: -1002044396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_34
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1643
+        width: 113
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3ea3f5477484652b9b4d908d62ed20
+      internalID: -1691335490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_35
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1770
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7bb423131a84ef0b1a925def2917b1
+      internalID: 865113333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_36
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1662
+        width: 92
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801737fdd426743a7aa32b8e49e08be6
+      internalID: 317182874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_37
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1763
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46868ffa951c04e26a9c3b0deaf955e7
+      internalID: 318981805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_38
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1740
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5997ec9607ce24ac9b92069df599d3ae
+      internalID: 1539834523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_39
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1729
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e125d47371f4f4eb3165b6abe1ebc4
+      internalID: -26627819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_40
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1749
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5828ea179de4dad9c9003dcc5504c2
+      internalID: -641141586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_41
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1721
+        width: 67
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601893ab713e34a4ebb96dce3765a351
+      internalID: 392877964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_42
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1710
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796a3d0c3a95b4f609fa7dc2c6e14d5a
+      internalID: -477629324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_43
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1646
+        width: 107
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cf075ca96b544c5adeb67a32e0d14d
+      internalID: 2053165608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_44
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 1693
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a59a115463154364b9829ff2dc9e211
+      internalID: 559970412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_45
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1714
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f776f8e14314b4daebb68d039c7fe355
+      internalID: 754434472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_46
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1725
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5f29f353d8343698828dc69127f416
+      internalID: -1858907551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_47
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1715
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c17040bb4e6c4b9c8c120538442e98b
+      internalID: -261961093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_48
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1702
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50813c9ae8fd24e399469875e924d58c
+      internalID: -1211921204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_49
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1702
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae924e2c64664fd1920586a7cc07803
+      internalID: -555439625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_50
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1704
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ea0b7e08cbc4704ac2f7b68a10e090
+      internalID: -1690220666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_51
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1688
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888844ef43839498e9f20214696781ac
+      internalID: -1051549028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_52
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1682
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a649cae63fc4f9f81cc0b3f6ff1689
+      internalID: -139560484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_53
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1690
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623db183dc07b4242a2b89b0c8faf587
+      internalID: -1002106963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_54
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1674
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ea7c2f912f748e59d11af0728d7afa
+      internalID: 290283279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_55
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 1670
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3816885f968b4713ac94f51cf1fbb42
+      internalID: -2120515211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_56
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1659
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a385e56acbf4e1394c020cbcbb96be
+      internalID: -2073725582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_57
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1657
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354b906f6d6da4bdf84915b65840c067
+      internalID: -1172453633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_58
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 1656
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754db9e5b59f242d3a859becd92f0d6d
+      internalID: -1769471702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_59
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1642
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59161e41d191c411fab8a0fd0b30840f
+      internalID: -1110606681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_60
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1642
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c47832ac755433b8e503fcf6a09951
+      internalID: 925918134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_61
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1640
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b198a0483623489497e6e535d20155c
+      internalID: -1784012322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_62
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1436
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5125bd236f947169bd81516e3db251
+      internalID: -405956819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_63
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1457
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd295a87fe294ebe906d9efa02778de
+      internalID: -588873617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_64
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1395
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8567f78201034b0b94246a866251aa0
+      internalID: 2026746783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_65
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1424
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9551457f740e49079eea62482def111
+      internalID: 252679278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_66
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1433
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55d760bf7ba245e48220f6727c36dfb
+      internalID: -1195627930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_67
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1417
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb862cac53ee94c29b46d669a4c096c9
+      internalID: -1398840767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_68
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1427
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6409db861a0146b091158d5adb41567
+      internalID: 1221510206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_69
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1295
+        width: 113
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1dde69e383e5421f81651fa06aa31aa
+      internalID: -806535414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_70
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1357
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ae91496472f4ae1a029a3c37c0f764
+      internalID: -383259126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_71
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1387
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac92a19e8b2034d59bef6d20a5c7dbd2
+      internalID: 972178005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_72
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 1404
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a675d4ab43249a4bf4fd46e8480c04
+      internalID: 1750203745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_73
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1350
+        width: 95
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed272b38f0244a989a837d79687ed67
+      internalID: 1992076030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_74
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1373
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0cdff70084a4165b6ec949842a3385
+      internalID: 753809200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_75
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1390
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557f85f74aee14d8b8e5d4ba6d3e07a6
+      internalID: 674410852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_76
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1382
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5c25df05ff047fc9e5b20a0845953a
+      internalID: -1399587414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_77
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1357
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d48fb5d6282542f38c9fc6e4a3ddab6
+      internalID: -475591643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_78
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1374
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933caaae35fa5420db201de805a44c2d
+      internalID: 1622572023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_79
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1380
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992c5dc18b2d54da7bfa63c9184d4960
+      internalID: -288195689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_80
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1376
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d4d541b12de4b7097b8370ab871d56
+      internalID: 1242798809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_81
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1361
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21848b11af48a4e57b7483389ce75de4
+      internalID: -884802190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_82
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1341
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6df1b14ecaff4bc08012838f73cb229
+      internalID: -1261138573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_83
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1332
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ce80b72841148fb8a04c5c0717b3c6
+      internalID: 1647390626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_84
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1143
+        width: 154
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0496d9318202a4eee8c80b2caa548f9e
+      internalID: 1784955300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_85
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1334
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfcb86788ab34df7864f902137f1839
+      internalID: 510735875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_86
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1311
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e230ff6e283894017b8df55616324444
+      internalID: 1792803894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_87
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1320
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e48301e3d3944b739f429286a405544
+      internalID: 323901087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_88
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1305
+        width: 72
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b407622f5c914b2db7e7c3887d007d2
+      internalID: -1779451229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_89
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1314
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4012a85bc184291ae1119432e8aa0d
+      internalID: -1174815752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_90
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1327
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c40049cc05248e68996f558bdc9be1
+      internalID: -1336628636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_91
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1160
+        width: 130
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a699b61c93a450dbc0c1e8e206bbf9
+      internalID: 381428543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_92
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1314
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6b56da90f1a48a88f99aae39503b64
+      internalID: 218598629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_93
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1316
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96c20f6f2c3a4d84b98791a7f2c2d17
+      internalID: 1355801135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_94
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 1311
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ec91d006b7a40b29380c61708b4b76
+      internalID: -1866836018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_95
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1289
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a777192b8ec164ed8894e1480d246403
+      internalID: 1975878402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_96
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1282
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e547f33fe0a1f417a9c7740e8a719e0c
+      internalID: 91054754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_97
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1290
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8523cdc37b1f6499cad649c7574b70bf
+      internalID: 2136523798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_98
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1154
+        width: 116
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb55c7eebb96473daef654567954cdb
+      internalID: -694176618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_99
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1289
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370154a63ebfc4d5c925a716eaf958da
+      internalID: -858280714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_100
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1275
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19df5ac11fdff40d98ba293d26c94ce9
+      internalID: 457741267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_101
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1216
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e23aa6b39efa4271aa987c170722966
+      internalID: -1712064366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_102
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1230
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38556e358b8874810ab3fb534d592631
+      internalID: 1701579203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_103
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1249
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a1939555ccd46fbba6332a81a5b9b1
+      internalID: -1434209668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_104
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1252
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38951b88c72540b99eb1b06c65620aa
+      internalID: -1946957137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_105
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1250
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6982764acf6644d5aed7ba7e399f0ca
+      internalID: -52639135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_106
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1239
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2ba9a97d1194b32b6004af0262ed52
+      internalID: 1867464489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_107
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 1220
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b616ebe9362b4135adeb63b4dfc2a81
+      internalID: -1902482999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_108
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1214
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817915b8240e646ffa2ccd2924e0ae80
+      internalID: -408086469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_109
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1211
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2731dadcc85740d59d67f181d216384
+      internalID: -1216295275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_110
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1183
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b3b7ab0b4af4c35b65b533a0091915
+      internalID: -596215135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_111
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1220
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2c0b394804d449ea18ea9815d83140
+      internalID: 2002131092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_112
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1208
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084f7d39bb03748e6950069e56a873e2
+      internalID: 1719761712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_113
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1213
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b099b4731d04b57b79e4d9d746e5ef
+      internalID: 2072524003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_114
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1177
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98dc8ab827a814b458b6b20b03dff9d2
+      internalID: -652195082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_115
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1190
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8223546913c14700b7c55914a4cfba8
+      internalID: -828972153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_116
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1191
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5325ffeee1ff49659f4e6aaba25386a
+      internalID: 72343720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_117
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1167
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368de132e09594a3ea79460d69893702
+      internalID: -1605969399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_118
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1174
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1792d788662744ebda2981d57f9da8b7
+      internalID: -420986627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_119
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1125
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875313a0fc4324eb7b4c2f08f2d9561c
+      internalID: 2013623299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_120
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1137
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd950471d80f24cc2904557836f772b7
+      internalID: 1014726608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_121
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1116
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2e0cab622dc46128e4825d3672b4a9
+      internalID: 1824769854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_122
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 1110
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb8f6d989b7045eb84a291183f1a7d8
+      internalID: 2131346742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_123
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 890
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2962b048c00ce4f57b63457fec9b4aa8
+      internalID: -2132091765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_124
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 851
+        width: 105
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6898b7d0b3a6441aca7cadca2e99491d
+      internalID: 1940404187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_125
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 893
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759d58ab105be400e89fe32a7fe4289c
+      internalID: 2068427403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_126
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 880
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250d611ce98ca41fabbe38bfa798b7fa
+      internalID: 1614705532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_127
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 898
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235e8f33528bf4cb88274fe80d6fcd86
+      internalID: -1351153217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_128
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 861
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e004d058641974afa832de01ae1aee94
+      internalID: 2064699032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_129
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 867
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f802fa8e5f5cd4b9fbb0f9287ee5b66a
+      internalID: 177307498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_130
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 877
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a7848d7674844d2a5ed65537dc5958
+      internalID: -2130488821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_131
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 854
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695a051c3535141be8a2903099c7558c
+      internalID: 985365538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_132
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 867
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e805a9eeb827b4ddaa3e5a9a85e314b8
+      internalID: -1184889905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_133
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 846
+        width: 76
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc15066014744fc5a67b53aff9a90d4
+      internalID: -579194452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_134
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 887
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761e34bede9f9455c919d73b92f62590
+      internalID: -1170896653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_135
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 832
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098479c8cf3c749dbb1fddf0af632273
+      internalID: -955319519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_136
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 859
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbb20f933fcd49f0a0c91b17a7e7066
+      internalID: 1392904326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_137
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 856
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c866a5d2a9f64359a29487084599654
+      internalID: 1994807861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_138
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 851
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83db511b6ee154f4ea9c5b6d93ef7f29
+      internalID: 493742289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_139
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 839
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797aaf51787344b3f914ab6c4ca383c4
+      internalID: 1666784643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_140
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 840
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4936cce874db647d38ceee8cb677ae3c
+      internalID: 273230847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_141
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 644
+        width: 144
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c84f614e075641c796f30fdf73f5b5d
+      internalID: 1184452667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_142
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 840
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78791b6c0617f414294761015418b188
+      internalID: -1162109236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_143
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 831
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72da9feaa683d4bd8877e08d3bea71f9
+      internalID: 1934233826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_144
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 828
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54902bc8a027f4139b1b2b7fb655dc46
+      internalID: 2052753749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_145
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 718
+        width: 162
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d1cc0db2e784953bfc5f7f59ab45bf
+      internalID: 429153519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_146
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 811
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4388d2a169cb496680f0e4fb199b993
+      internalID: 1104149842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_147
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 738
+        width: 107
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b4759e549c940e5ae8675e410b862e
+      internalID: 316102341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_148
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 720
+        width: 77
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe2e5ffa9b8944789a1e1da58945efe
+      internalID: -124459530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_149
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 781
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73dcda22bea2410a8fdce7764ab3d4f
+      internalID: -2127653456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_150
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 793
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1d36c8fa85644ff87aecc275fcb366
+      internalID: 148408961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_151
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 788
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c26375e000b479ab1ec78eff564538
+      internalID: 499456133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_152
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 753
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d4ac68d57e84f05a5abd45f7a7275b
+      internalID: -2080538305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_153
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 741
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b88a971fe7a4e848d32d456823aece
+      internalID: -1691191905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_154
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 727
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d18ee8abebc3419eb8b3d7c04d66b41
+      internalID: 1702189440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_155
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 729
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17368f42657b4e5ca94fd39565ee255
+      internalID: -2014994499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_156
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 714
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1536f8e7a69f5445cba8aa590d07f048
+      internalID: -1453312741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_157
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 730
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3321e3abddb434813ae6f6cd4dc346db
+      internalID: -1981916871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_158
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 710
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b042d10bd1644058bdc7c0e5860e22
+      internalID: 1080547988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_159
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 734
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83957ac06d390413895a2840994831d1
+      internalID: -233866289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_160
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 721
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8f07b80a98a4059a476bf33963e608
+      internalID: -214949281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_161
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 698
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47fbc3eafea041e881ee76a69a4d534
+      internalID: 248993523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_162
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 725
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2897239bf511b4507abda1ea749e6202
+      internalID: -379960151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_163
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 707
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1718c10f6208b476badf1da22ffdf6a1
+      internalID: 1160512534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_164
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 719
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee3988d7ad034f55a61c5e12437c06b
+      internalID: 1415732296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_165
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 707
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc05ce0e405743079c9e617eef273cd
+      internalID: 680793641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_166
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 693
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55019a272fa74bffb6089e8b4b1d80e
+      internalID: 289757486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_167
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 658
+        width: 88
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ca3a089119841949b33bba5d453748
+      internalID: -907763499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_168
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 632
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692d01146265e40219aa0a8219307a0b
+      internalID: 465515812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_169
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 679
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5405f8cd9544b4e14ab5cead7ead550b
+      internalID: -1301418037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_170
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 707
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bf83d1d20464638bed25f7e39138df
+      internalID: -1870951638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_171
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 691
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348286281f2c74ff882e39b8dc7d112b
+      internalID: -620328365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_172
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 695
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd27cd5d790f4c3e932a59745ec2a41
+      internalID: 2042378938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_173
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 691
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49c2908c504c4b55a4a627fdfd7c567
+      internalID: -334616420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_174
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 675
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99622829a20f046a8aa42f81227c5628
+      internalID: -471010387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_175
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 671
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5167473bcc4d4e22a387bce05a7a1dd
+      internalID: -2019163755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_176
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 599
+        width: 81
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92438f982646a467784f0a165fe2bbbe
+      internalID: -1900084759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_177
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 623
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0783b46e2c6046d9a68d9eabb6dbcc5
+      internalID: 1875947562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_178
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 648
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7576d763700bb41f7a3da69c8a4bc81b
+      internalID: 436012727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_179
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 649
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43739223b8b0146c2a2680f64efc7781
+      internalID: -593110743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_180
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 653
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf9cb2d54dae494dbdf97c99ec00d47
+      internalID: 2068067915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_181
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 645
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc147b7538913409183ffc2526ae3cb3
+      internalID: -241954213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_182
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 627
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd68975ab14548b6bbc2cddb9561af1
+      internalID: 3837500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_183
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 627
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141f2f4701b634c16b737ac4a4b1438c
+      internalID: -1335828215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_184
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 398
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9171864c2bb45e0bd718f7d1fcc329
+      internalID: 1620595995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_185
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 377
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8f3de9386de4ba5b1850648fa878a3
+      internalID: -197229424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_186
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 305
+        width: 72
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acbf5b5dc3d14bb3801f87c229e88de
+      internalID: 288619173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_187
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 395
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6896c258c34e449a8bbb328172cbef8
+      internalID: 231329104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_188
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 353
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3533948254efd42f1b2f56760e3d0628
+      internalID: -61540129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_189
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 371
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189919538da8d4820a5dc8545e621c6f
+      internalID: 1764361048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_190
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 329
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea30c0f72f31c4ec8b1d70110836841c
+      internalID: -274215428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_191
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 381
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e489bfd51ff467dba0914ccb4c7349
+      internalID: 1024124388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_192
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 353
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0997736d4ed4604bcc51fcadeea871
+      internalID: 1069855638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_193
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 350
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc2061187ef848be8edffbc040a0b73
+      internalID: 52990564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_194
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 319
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07d4438a28a7485390eb88b69d09d05
+      internalID: 1233026524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_195
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 339
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03594fd105bba4c529f1cb167eda86ba
+      internalID: -649580947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_196
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 319
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723438e334a0f456c9d1fc0d550b40da
+      internalID: -1981196511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_197
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 322
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e842fc59509464672b8af94d9825855b
+      internalID: -1391298200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_198
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 332
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad515a20f555d46909021067b695f388
+      internalID: 1475070542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_199
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 306
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2ed1f4c594d4b25bc70dafcb7e93c9
+      internalID: -1847733943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_200
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 322
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954687676e50a4302b29d03865513143
+      internalID: -2093550361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_201
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 313
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68206dfa3c19f486fbd51c715ec9c7d1
+      internalID: -1875789445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_202
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 328
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3f5d2674e7a4a83b1165cf1c6376e0
+      internalID: 1992695522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_203
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 315
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85613a865fa7f4806a6861e3998f9d88
+      internalID: 782856154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_204
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 310
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccea060e43ad4a2da6d1373f15c4615
+      internalID: 333304120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_205
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 322
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684d5581fbf36422abcf74133f3d2082
+      internalID: -1005047896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_206
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 265
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc8ff95c76e649a5a359304f66dd3b1
+      internalID: 1260195978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_207
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 311
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e109b72b49c474286d23b25f4fea2b
+      internalID: -1741728050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_208
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 247
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136cca9f710464d5788aac43bad5919e
+      internalID: 398830090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_209
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 300
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a232af13d3de3478a87a61c2ccbb6392
+      internalID: 1447448713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_210
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 291
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a87f73395b7841a0a554fc0b94d9769
+      internalID: 262323957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_211
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 304
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b211f15eb7c431ea67878f26bf6b2f
+      internalID: -1594229641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_212
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 280
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401a2b74d38944889a8f6b1cddc7f26e
+      internalID: -1577681295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_213
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 292
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57eaa98abadfb425984f1962b5102cc6
+      internalID: -12630780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_214
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 284
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b34f631b0d084bde8c474829d34f73a
+      internalID: 261198500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_215
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 279
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a571de12344334e25ad1e6b46d607536
+      internalID: 1192886926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_216
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 223
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e61417839a104efa9aafe38a98da45a
+      internalID: 906535766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_217
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 268
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7362b1c3c96984872a1baf9977a2f8ab
+      internalID: 998387906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_218
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 232
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b778253d0a38437f9726d2dbb5f056e
+      internalID: -82074029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_219
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 241
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df88b830c543a4de5915506777731535
+      internalID: 198284083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_220
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 243
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30c8b66bca87400da9677b3c41c481c
+      internalID: -1828615111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_221
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 177
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09159cd8160bd47f58cb358880385e05
+      internalID: -2029905392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_222
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 147
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19673149dbea4522b1d9f1d026044f1
+      internalID: -1148701511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_223
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 198
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc200ebc35dee4295bcf6b4cb09f8a7e
+      internalID: 2076669162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_224
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 168
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480211f7e328d4755a7503e4c5302eda
+      internalID: 1476395687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_225
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 229
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0776e222f84984621b72c890cd96a60f
+      internalID: 1809247430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_226
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 219
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c91d2a28a873423ea5c7054bc756b2c
+      internalID: 402370592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_227
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 193
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a143a59fc6f842b6b3f2b23f0c4503e
+      internalID: 179824101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_228
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 188
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d666abf40a4634eddad7ce797b4f5e82
+      internalID: 543984111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_229
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 209
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138abd1ecd38c41ef8b698fafd484795
+      internalID: -1381398555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_230
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 216
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af00cfa17dfcc47b098b003431b4bf0f
+      internalID: -1532346130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_231
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 207
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba487b52a1f64df7855d9a0b1bf4606
+      internalID: 756659188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_232
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 203
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82dc528719f2246ca8ec823e47459d09
+      internalID: 1205793911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_233
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 206
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e46753b2ffa43caa81b8d0dca3c2bd
+      internalID: -1460615954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_234
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 173
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5766f5d343a4f31834d229ff0c0285
+      internalID: -1340371880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_235
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 186
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38d384ad4c984d9bb5377d0da6f6cf1
+      internalID: -1192996795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_236
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 157
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f46cca4cdf343068d35bd1e573cb21
+      internalID: -291019879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_237
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 183
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce005ff85d66d47438938c3407d00d9e
+      internalID: -435904402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_238
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 171
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe21c3b6a05da4ada9cf3875559ab675
+      internalID: 718180758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_239
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 177
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4959a6bc095a46c5870108d68d8e4cb
+      internalID: 1537950984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_240
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 177
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea8afadc3c534ddd939d76fc867d1c9
+      internalID: 2022147519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_241
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 159
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8130d6b8a597a41379f3db62cac8a4f9
+      internalID: -1335576411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_242
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 152
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf2925bd20164e4a9f19318a6e74fa8
+      internalID: 167868303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_243
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 157
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906bfc374262d416ba2cc07693be44a4
+      internalID: 945305095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_244
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 115
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160ebdcda814f4640b3abb57674bcc8f
+      internalID: 412677625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_245
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 83
+        width: 19
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7256635dcdf1419a8fa6907f9e4f92e
+      internalID: 564082655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_246
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 126
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0c08827763447f689695ad671dfb21
+      internalID: 948462406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_247
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 135
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ab93c8b2edf4b1e8bb14723046712c
+      internalID: 118889568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_248
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 121
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3bf9b178f8147c784a8f3e044e6384
+      internalID: -662297148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_249
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 101
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2b7d913a3da4a04b33e99b0a5f0811
+      internalID: 1884979762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_250
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 137
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e78e18e9be474543a18995b21e7832d
+      internalID: -1428371180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_251
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 128
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee37d8c399abe47b58f91ccbf352b8e3
+      internalID: -446537295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_252
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 72
+        width: 90
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39025fbdcae454049911815eff3b7862
+      internalID: -184338127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_253
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 127
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3f9dccdbafb488aac0dd907368d1e6
+      internalID: -1022880488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_254
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 122
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c86c5a92dad4eed959b4f85c27552c
+      internalID: -314407315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_255
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 112
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b6b7df40ca0481c97487d7c62128ec
+      internalID: -1879411144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_256
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 111
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88645e7533764cecb68abe76ad23614
+      internalID: 632344371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_257
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 113
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb074b59b0084d709b7c0807a5b6eda
+      internalID: 1471368352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_258
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 111
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914f8a79b850c47748f1a5c233c51979
+      internalID: 486529273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_259
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 101
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f940ca5659945cea440162ed43f505
+      internalID: -2066923665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_260
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 118
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40ccc039eca749cdaba975efcac1f99
+      internalID: -793430237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_261
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 113
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa1abdaa06ee43e99e58dfcd9e3a4bf
+      internalID: 807926710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_262
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 104
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2356024548ce1439d8e18955e80db212
+      internalID: 367757553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_263
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 92
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4031c708e45b4a2db3e9b248c2e41e7
+      internalID: 1651572827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_264
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 86
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c886e389cff7c42b3837150309bff7e0
+      internalID: 2078372247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_265
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 92
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edae57851cf04140a9a0331592fb20b
+      internalID: -1083425316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSplatterBlack2_266
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 78
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4ecfd4b08fa43d6af0d32b9b07ee11
+      internalID: 1831291495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c659b0bc8711a4032a7eeeb4eb242686
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: True
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":true,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      GraffitiSplatterBlack2_0: -589019325
+      GraffitiSplatterBlack2_1: 1154668211
+      GraffitiSplatterBlack2_10: 988800959
+      GraffitiSplatterBlack2_100: 457741267
+      GraffitiSplatterBlack2_101: -1712064366
+      GraffitiSplatterBlack2_102: 1701579203
+      GraffitiSplatterBlack2_103: -1434209668
+      GraffitiSplatterBlack2_104: -1946957137
+      GraffitiSplatterBlack2_105: -52639135
+      GraffitiSplatterBlack2_106: 1867464489
+      GraffitiSplatterBlack2_107: -1902482999
+      GraffitiSplatterBlack2_108: -408086469
+      GraffitiSplatterBlack2_109: -1216295275
+      GraffitiSplatterBlack2_11: -545968081
+      GraffitiSplatterBlack2_110: -596215135
+      GraffitiSplatterBlack2_111: 2002131092
+      GraffitiSplatterBlack2_112: 1719761712
+      GraffitiSplatterBlack2_113: 2072524003
+      GraffitiSplatterBlack2_114: -652195082
+      GraffitiSplatterBlack2_115: -828972153
+      GraffitiSplatterBlack2_116: 72343720
+      GraffitiSplatterBlack2_117: -1605969399
+      GraffitiSplatterBlack2_118: -420986627
+      GraffitiSplatterBlack2_119: 2013623299
+      GraffitiSplatterBlack2_12: -1559422826
+      GraffitiSplatterBlack2_120: 1014726608
+      GraffitiSplatterBlack2_121: 1824769854
+      GraffitiSplatterBlack2_122: 2131346742
+      GraffitiSplatterBlack2_123: -2132091765
+      GraffitiSplatterBlack2_124: 1940404187
+      GraffitiSplatterBlack2_125: 2068427403
+      GraffitiSplatterBlack2_126: 1614705532
+      GraffitiSplatterBlack2_127: -1351153217
+      GraffitiSplatterBlack2_128: 2064699032
+      GraffitiSplatterBlack2_129: 177307498
+      GraffitiSplatterBlack2_13: -1026453146
+      GraffitiSplatterBlack2_130: -2130488821
+      GraffitiSplatterBlack2_131: 985365538
+      GraffitiSplatterBlack2_132: -1184889905
+      GraffitiSplatterBlack2_133: -579194452
+      GraffitiSplatterBlack2_134: -1170896653
+      GraffitiSplatterBlack2_135: -955319519
+      GraffitiSplatterBlack2_136: 1392904326
+      GraffitiSplatterBlack2_137: 1994807861
+      GraffitiSplatterBlack2_138: 493742289
+      GraffitiSplatterBlack2_139: 1666784643
+      GraffitiSplatterBlack2_14: -330074337
+      GraffitiSplatterBlack2_140: 273230847
+      GraffitiSplatterBlack2_141: 1184452667
+      GraffitiSplatterBlack2_142: -1162109236
+      GraffitiSplatterBlack2_143: 1934233826
+      GraffitiSplatterBlack2_144: 2052753749
+      GraffitiSplatterBlack2_145: 429153519
+      GraffitiSplatterBlack2_146: 1104149842
+      GraffitiSplatterBlack2_147: 316102341
+      GraffitiSplatterBlack2_148: -124459530
+      GraffitiSplatterBlack2_149: -2127653456
+      GraffitiSplatterBlack2_15: 1353214054
+      GraffitiSplatterBlack2_150: 148408961
+      GraffitiSplatterBlack2_151: 499456133
+      GraffitiSplatterBlack2_152: -2080538305
+      GraffitiSplatterBlack2_153: -1691191905
+      GraffitiSplatterBlack2_154: 1702189440
+      GraffitiSplatterBlack2_155: -2014994499
+      GraffitiSplatterBlack2_156: -1453312741
+      GraffitiSplatterBlack2_157: -1981916871
+      GraffitiSplatterBlack2_158: 1080547988
+      GraffitiSplatterBlack2_159: -233866289
+      GraffitiSplatterBlack2_16: 107418515
+      GraffitiSplatterBlack2_160: -214949281
+      GraffitiSplatterBlack2_161: 248993523
+      GraffitiSplatterBlack2_162: -379960151
+      GraffitiSplatterBlack2_163: 1160512534
+      GraffitiSplatterBlack2_164: 1415732296
+      GraffitiSplatterBlack2_165: 680793641
+      GraffitiSplatterBlack2_166: 289757486
+      GraffitiSplatterBlack2_167: -907763499
+      GraffitiSplatterBlack2_168: 465515812
+      GraffitiSplatterBlack2_169: -1301418037
+      GraffitiSplatterBlack2_17: -2103579919
+      GraffitiSplatterBlack2_170: -1870951638
+      GraffitiSplatterBlack2_171: -620328365
+      GraffitiSplatterBlack2_172: 2042378938
+      GraffitiSplatterBlack2_173: -334616420
+      GraffitiSplatterBlack2_174: -471010387
+      GraffitiSplatterBlack2_175: -2019163755
+      GraffitiSplatterBlack2_176: -1900084759
+      GraffitiSplatterBlack2_177: 1875947562
+      GraffitiSplatterBlack2_178: 436012727
+      GraffitiSplatterBlack2_179: -593110743
+      GraffitiSplatterBlack2_18: -66331667
+      GraffitiSplatterBlack2_180: 2068067915
+      GraffitiSplatterBlack2_181: -241954213
+      GraffitiSplatterBlack2_182: 3837500
+      GraffitiSplatterBlack2_183: -1335828215
+      GraffitiSplatterBlack2_184: 1620595995
+      GraffitiSplatterBlack2_185: -197229424
+      GraffitiSplatterBlack2_186: 288619173
+      GraffitiSplatterBlack2_187: 231329104
+      GraffitiSplatterBlack2_188: -61540129
+      GraffitiSplatterBlack2_189: 1764361048
+      GraffitiSplatterBlack2_19: -738295066
+      GraffitiSplatterBlack2_190: -274215428
+      GraffitiSplatterBlack2_191: 1024124388
+      GraffitiSplatterBlack2_192: 1069855638
+      GraffitiSplatterBlack2_193: 52990564
+      GraffitiSplatterBlack2_194: 1233026524
+      GraffitiSplatterBlack2_195: -649580947
+      GraffitiSplatterBlack2_196: -1981196511
+      GraffitiSplatterBlack2_197: -1391298200
+      GraffitiSplatterBlack2_198: 1475070542
+      GraffitiSplatterBlack2_199: -1847733943
+      GraffitiSplatterBlack2_2: -1793180426
+      GraffitiSplatterBlack2_20: 1171884997
+      GraffitiSplatterBlack2_200: -2093550361
+      GraffitiSplatterBlack2_201: -1875789445
+      GraffitiSplatterBlack2_202: 1992695522
+      GraffitiSplatterBlack2_203: 782856154
+      GraffitiSplatterBlack2_204: 333304120
+      GraffitiSplatterBlack2_205: -1005047896
+      GraffitiSplatterBlack2_206: 1260195978
+      GraffitiSplatterBlack2_207: -1741728050
+      GraffitiSplatterBlack2_208: 398830090
+      GraffitiSplatterBlack2_209: 1447448713
+      GraffitiSplatterBlack2_21: 2092462799
+      GraffitiSplatterBlack2_210: 262323957
+      GraffitiSplatterBlack2_211: -1594229641
+      GraffitiSplatterBlack2_212: -1577681295
+      GraffitiSplatterBlack2_213: -12630780
+      GraffitiSplatterBlack2_214: 261198500
+      GraffitiSplatterBlack2_215: 1192886926
+      GraffitiSplatterBlack2_216: 906535766
+      GraffitiSplatterBlack2_217: 998387906
+      GraffitiSplatterBlack2_218: -82074029
+      GraffitiSplatterBlack2_219: 198284083
+      GraffitiSplatterBlack2_22: -834212696
+      GraffitiSplatterBlack2_220: -1828615111
+      GraffitiSplatterBlack2_221: -2029905392
+      GraffitiSplatterBlack2_222: -1148701511
+      GraffitiSplatterBlack2_223: 2076669162
+      GraffitiSplatterBlack2_224: 1476395687
+      GraffitiSplatterBlack2_225: 1809247430
+      GraffitiSplatterBlack2_226: 402370592
+      GraffitiSplatterBlack2_227: 179824101
+      GraffitiSplatterBlack2_228: 543984111
+      GraffitiSplatterBlack2_229: -1381398555
+      GraffitiSplatterBlack2_23: 956727536
+      GraffitiSplatterBlack2_230: -1532346130
+      GraffitiSplatterBlack2_231: 756659188
+      GraffitiSplatterBlack2_232: 1205793911
+      GraffitiSplatterBlack2_233: -1460615954
+      GraffitiSplatterBlack2_234: -1340371880
+      GraffitiSplatterBlack2_235: -1192996795
+      GraffitiSplatterBlack2_236: -291019879
+      GraffitiSplatterBlack2_237: -435904402
+      GraffitiSplatterBlack2_238: 718180758
+      GraffitiSplatterBlack2_239: 1537950984
+      GraffitiSplatterBlack2_24: -162067268
+      GraffitiSplatterBlack2_240: 2022147519
+      GraffitiSplatterBlack2_241: -1335576411
+      GraffitiSplatterBlack2_242: 167868303
+      GraffitiSplatterBlack2_243: 945305095
+      GraffitiSplatterBlack2_244: 412677625
+      GraffitiSplatterBlack2_245: 564082655
+      GraffitiSplatterBlack2_246: 948462406
+      GraffitiSplatterBlack2_247: 118889568
+      GraffitiSplatterBlack2_248: -662297148
+      GraffitiSplatterBlack2_249: 1884979762
+      GraffitiSplatterBlack2_25: 483544570
+      GraffitiSplatterBlack2_250: -1428371180
+      GraffitiSplatterBlack2_251: -446537295
+      GraffitiSplatterBlack2_252: -184338127
+      GraffitiSplatterBlack2_253: -1022880488
+      GraffitiSplatterBlack2_254: -314407315
+      GraffitiSplatterBlack2_255: -1879411144
+      GraffitiSplatterBlack2_256: 632344371
+      GraffitiSplatterBlack2_257: 1471368352
+      GraffitiSplatterBlack2_258: 486529273
+      GraffitiSplatterBlack2_259: -2066923665
+      GraffitiSplatterBlack2_26: 970031382
+      GraffitiSplatterBlack2_260: -793430237
+      GraffitiSplatterBlack2_261: 807926710
+      GraffitiSplatterBlack2_262: 367757553
+      GraffitiSplatterBlack2_263: 1651572827
+      GraffitiSplatterBlack2_264: 2078372247
+      GraffitiSplatterBlack2_265: -1083425316
+      GraffitiSplatterBlack2_266: 1831291495
+      GraffitiSplatterBlack2_27: -228370791
+      GraffitiSplatterBlack2_28: 1916338512
+      GraffitiSplatterBlack2_29: -660828809
+      GraffitiSplatterBlack2_3: 2011844472
+      GraffitiSplatterBlack2_30: 275764162
+      GraffitiSplatterBlack2_31: 1946793497
+      GraffitiSplatterBlack2_32: 1408270250
+      GraffitiSplatterBlack2_33: -1002044396
+      GraffitiSplatterBlack2_34: -1691335490
+      GraffitiSplatterBlack2_35: 865113333
+      GraffitiSplatterBlack2_36: 317182874
+      GraffitiSplatterBlack2_37: 318981805
+      GraffitiSplatterBlack2_38: 1539834523
+      GraffitiSplatterBlack2_39: -26627819
+      GraffitiSplatterBlack2_4: -1232867650
+      GraffitiSplatterBlack2_40: -641141586
+      GraffitiSplatterBlack2_41: 392877964
+      GraffitiSplatterBlack2_42: -477629324
+      GraffitiSplatterBlack2_43: 2053165608
+      GraffitiSplatterBlack2_44: 559970412
+      GraffitiSplatterBlack2_45: 754434472
+      GraffitiSplatterBlack2_46: -1858907551
+      GraffitiSplatterBlack2_47: -261961093
+      GraffitiSplatterBlack2_48: -1211921204
+      GraffitiSplatterBlack2_49: -555439625
+      GraffitiSplatterBlack2_5: -860790026
+      GraffitiSplatterBlack2_50: -1690220666
+      GraffitiSplatterBlack2_51: -1051549028
+      GraffitiSplatterBlack2_52: -139560484
+      GraffitiSplatterBlack2_53: -1002106963
+      GraffitiSplatterBlack2_54: 290283279
+      GraffitiSplatterBlack2_55: -2120515211
+      GraffitiSplatterBlack2_56: -2073725582
+      GraffitiSplatterBlack2_57: -1172453633
+      GraffitiSplatterBlack2_58: -1769471702
+      GraffitiSplatterBlack2_59: -1110606681
+      GraffitiSplatterBlack2_6: -1742948712
+      GraffitiSplatterBlack2_60: 925918134
+      GraffitiSplatterBlack2_61: -1784012322
+      GraffitiSplatterBlack2_62: -405956819
+      GraffitiSplatterBlack2_63: -588873617
+      GraffitiSplatterBlack2_64: 2026746783
+      GraffitiSplatterBlack2_65: 252679278
+      GraffitiSplatterBlack2_66: -1195627930
+      GraffitiSplatterBlack2_67: -1398840767
+      GraffitiSplatterBlack2_68: 1221510206
+      GraffitiSplatterBlack2_69: -806535414
+      GraffitiSplatterBlack2_7: 301715137
+      GraffitiSplatterBlack2_70: -383259126
+      GraffitiSplatterBlack2_71: 972178005
+      GraffitiSplatterBlack2_72: 1750203745
+      GraffitiSplatterBlack2_73: 1992076030
+      GraffitiSplatterBlack2_74: 753809200
+      GraffitiSplatterBlack2_75: 674410852
+      GraffitiSplatterBlack2_76: -1399587414
+      GraffitiSplatterBlack2_77: -475591643
+      GraffitiSplatterBlack2_78: 1622572023
+      GraffitiSplatterBlack2_79: -288195689
+      GraffitiSplatterBlack2_8: 1766950677
+      GraffitiSplatterBlack2_80: 1242798809
+      GraffitiSplatterBlack2_81: -884802190
+      GraffitiSplatterBlack2_82: -1261138573
+      GraffitiSplatterBlack2_83: 1647390626
+      GraffitiSplatterBlack2_84: 1784955300
+      GraffitiSplatterBlack2_85: 510735875
+      GraffitiSplatterBlack2_86: 1792803894
+      GraffitiSplatterBlack2_87: 323901087
+      GraffitiSplatterBlack2_88: -1779451229
+      GraffitiSplatterBlack2_89: -1174815752
+      GraffitiSplatterBlack2_9: -2011678011
+      GraffitiSplatterBlack2_90: -1336628636
+      GraffitiSplatterBlack2_91: 381428543
+      GraffitiSplatterBlack2_92: 218598629
+      GraffitiSplatterBlack2_93: 1355801135
+      GraffitiSplatterBlack2_94: -1866836018
+      GraffitiSplatterBlack2_95: 1975878402
+      GraffitiSplatterBlack2_96: 91054754
+      GraffitiSplatterBlack2_97: 2136523798
+      GraffitiSplatterBlack2_98: -694176618
+      GraffitiSplatterBlack2_99: -858280714
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

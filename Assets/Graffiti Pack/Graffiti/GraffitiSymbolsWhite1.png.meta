@@ -1,0 +1,870 @@
+fileFormatVersion: 2
+guid: da2314b93300d479ea9b16d937634542
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_0
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1563
+        width: 373
+        height: 459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ca6c77f1b344797bdd5c3cb16c4b4e
+      internalID: 1673263270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_1
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 2016
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13219f85b3960456b9c1b67aca8ac6cb
+      internalID: -2693443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1574
+        width: 435
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e6370d4eab944d6a2014c8a086d0cb
+      internalID: -1782609792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_3
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1661
+        width: 402
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bf93545baba43d5a2a37c4ba81a951
+      internalID: -2071149775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_4
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1691
+        width: 138
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305dfb0935df648c5ab5c46cd9896001
+      internalID: 1531357392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_5
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1807
+        width: 114
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb43b8379874422eb7f7c0077ee1c33
+      internalID: -382253419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_6
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1595
+        width: 153
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3741ad2b7c542c59a9aaff5e3adf8f
+      internalID: -129425429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1176
+        width: 91
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c101496c61364bf18b350516a9db7b3
+      internalID: -894180974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1184
+        width: 216
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2fb90e6f398458e9615fa572e35c5b
+      internalID: 191465343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_9
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1080
+        width: 358
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bf62053a8e14a38a1f4fa5cf996e06
+      internalID: -136436076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_10
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1045
+        width: 416
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f380b6c86132344dea8426806e223835
+      internalID: -1506759323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_11
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1313
+        width: 402
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb01627a7460a4a16a36133b5c3da756
+      internalID: 711771274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_12
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1176
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753bbc48ac0ba4af6afe59ab15b3dffe
+      internalID: -1939081762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_13
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1059
+        width: 444
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2d408c2b2374527bc2775676cb951a
+      internalID: 1538924466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1088
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c214fa324fa46eea4a850cc231b173
+      internalID: -1664509711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_15
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1076
+        width: 90
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0065a818a404cec83c2a116b3a4e6c
+      internalID: 751515408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_16
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1069
+        width: 201
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406a6220399be404ba588834608ec244
+      internalID: -2044790250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_17
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 542
+        width: 404
+        height: 429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e76dafa20534f6091b9c4499fa394a
+      internalID: -1852865563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_18
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 532
+        width: 424
+        height: 464
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad232ba4bce9497c9a0b66582bf964d
+      internalID: 1789817645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_19
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 564
+        width: 362
+        height: 407
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9e023c4901a4a16a667f936107dd51
+      internalID: 33504605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_20
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 543
+        width: 345
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae411e5a386224971a7fe1cf1c9107b6
+      internalID: 783411357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_21
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 29
+        width: 392
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437c176baf4374d788ab86942b067913
+      internalID: 1100996164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_22
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 418
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551adbad622ef4cb29e1fb01ab90ac97
+      internalID: 1425551871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_23
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 411
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8616ab9da164bfebaf6e2dfdcf7c47
+      internalID: 1394281291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_24
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 10
+        width: 330
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e85a57cd85ad408a8cebb0c7d3caebd
+      internalID: 326781758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_25
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 63
+        width: 337
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676100f2e565d4b4d8f7c087db788a3b
+      internalID: -1980427532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_26
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 375
+        width: 27
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568a49c633a5240bea6b34ff5a496655
+      internalID: -1015185071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_27
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 379
+        width: 23
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe036c9b620a45df9c33a2d486bb1b4
+      internalID: -46073665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_28
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 374
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d866b48bf354148e7a87fffc3c14f79f
+      internalID: -1922257754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_29
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 351
+        width: 50
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acba33a77d3b646eab2da017a58fce95
+      internalID: -1515670155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_30
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 43
+        width: 355
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce334bacd46cb4508a3223c0f6490c18
+      internalID: -649897666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiSymbolsWhite1_31
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 345
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b27e32bbda14aebbfd02bde748e7ff
+      internalID: -2132543315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b51f0876f5bb74ac5b48568c28a90679
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: True
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":true,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      GraffitiSymbolsWhite1_0: 1673263270
+      GraffitiSymbolsWhite1_1: -2693443
+      GraffitiSymbolsWhite1_10: -1506759323
+      GraffitiSymbolsWhite1_11: 711771274
+      GraffitiSymbolsWhite1_12: -1939081762
+      GraffitiSymbolsWhite1_13: 1538924466
+      GraffitiSymbolsWhite1_14: -1664509711
+      GraffitiSymbolsWhite1_15: 751515408
+      GraffitiSymbolsWhite1_16: -2044790250
+      GraffitiSymbolsWhite1_17: -1852865563
+      GraffitiSymbolsWhite1_18: 1789817645
+      GraffitiSymbolsWhite1_19: 33504605
+      GraffitiSymbolsWhite1_2: -1782609792
+      GraffitiSymbolsWhite1_20: 783411357
+      GraffitiSymbolsWhite1_21: 1100996164
+      GraffitiSymbolsWhite1_22: 1425551871
+      GraffitiSymbolsWhite1_23: 1394281291
+      GraffitiSymbolsWhite1_24: 326781758
+      GraffitiSymbolsWhite1_25: -1980427532
+      GraffitiSymbolsWhite1_26: -1015185071
+      GraffitiSymbolsWhite1_27: -46073665
+      GraffitiSymbolsWhite1_28: -1922257754
+      GraffitiSymbolsWhite1_29: -1515670155
+      GraffitiSymbolsWhite1_3: -2071149775
+      GraffitiSymbolsWhite1_30: -649897666
+      GraffitiSymbolsWhite1_31: -2132543315
+      GraffitiSymbolsWhite1_4: 1531357392
+      GraffitiSymbolsWhite1_5: -382253419
+      GraffitiSymbolsWhite1_6: -129425429
+      GraffitiSymbolsWhite1_7: -894180974
+      GraffitiSymbolsWhite1_8: 191465343
+      GraffitiSymbolsWhite1_9: -136436076
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

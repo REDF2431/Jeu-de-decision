@@ -1,0 +1,1928 @@
+fileFormatVersion: 2
+guid: ba3d28eebee2c40bd9bc232883171106
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1802
+        width: 184
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995a9c148b3024abd82a483a770d9a7f
+      internalID: -417878093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_1
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1792
+        width: 190
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da275f0bfda547c2a9bf57bd9c3d1dc
+      internalID: 1560524189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1845
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5026dbcfea99c4724ab99f6f45373fd4
+      internalID: 1340815119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_3
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1806
+        width: 168
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56be4286e21f24b1d8150c35b0f9bf48
+      internalID: 2017206781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_4
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1805
+        width: 177
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9024219a15cad4673a3973c263c834e6
+      internalID: -931542723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_5
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1810
+        width: 171
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b419d06877b4b61bafdba61cac7d30
+      internalID: -190076900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_6
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1815
+        width: 150
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a590f6612d849179002e62bbd3cafb
+      internalID: 1842409747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_7
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1532
+        width: 193
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f4fe46e766345b0838c6ab254d8759
+      internalID: 627631269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_8
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1813
+        width: 165
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30afa12618451450c855988e79a76078
+      internalID: 877330029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1547
+        width: 113
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7788f8f8f6ef14ba1b0666fd88f6faf2
+      internalID: -1819722775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_10
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1546
+        width: 169
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34eed3f70fda477ca30a6d34d6ead56
+      internalID: -1596120516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_11
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1546
+        width: 176
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2613b07f35c1c4b7bbb91bf34268fdec
+      internalID: 1869019378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_12
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1537
+        width: 178
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d723423c786054aac881387ca80b8b26
+      internalID: 1399020616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_13
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1561
+        width: 206
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2962c43e72ab4e12bc147ccdaa79ce3
+      internalID: 2107332194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_14
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1557
+        width: 177
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27162c04bc74541ce9a0aba1e83137bf
+      internalID: 1770877433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_15
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1551
+        width: 176
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4e7d91710154637ad97aa4b74eab3d
+      internalID: 1037808317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1287
+        width: 185
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e8f63be9c5f4c05a7cd2d9599bd0fb
+      internalID: 2120355948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_17
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1294
+        width: 179
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8e8863d7084486fa5eda35884e251a
+      internalID: 518004738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_18
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1283
+        width: 188
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e7ebcc87eae49cea1687dc31e4b956
+      internalID: 1973609428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_19
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1299
+        width: 164
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d0160e43e104acc804e1723472c698
+      internalID: -1754319469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_20
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1289
+        width: 181
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d865cfdcbec874a40a5f8c8ce3e1121d
+      internalID: -444110708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_21
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1292
+        width: 160
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e8b5f5d29144dfd97095b7d560063e
+      internalID: -194662893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_22
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1296
+        width: 208
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d111896c037994b5e9715b7b9ee707c3
+      internalID: -369714618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_23
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 1294
+        width: 161
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3118f22a0ffe14c7286507d20b1b5c99
+      internalID: 2094937397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_24
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1034
+        width: 162
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d748d114b504c81a34c7963c58611f
+      internalID: 1182367065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_25
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1030
+        width: 178
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3273a40b6084b45b28ee143924283b
+      internalID: 1027169390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_26
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1180
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e99e7f918a764bad9a98958a120f8e1
+      internalID: 1706772768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_27
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1179
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41751c7f762845db90628d5e43c4354
+      internalID: 1149483220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_28
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1190
+        width: 91
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b921b1551f6234af3906b05bfce4284b
+      internalID: -866050354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_29
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1039
+        width: 66
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d31d981f0d0448dbc6eba62fd44c81
+      internalID: 1618950830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_30
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1226
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de693a8eea0584e099307190a4e2fa2b
+      internalID: -1050840528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_31
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1085
+        width: 166
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf322c4c45b6408d8f1379bfc52518b
+      internalID: 1370956633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_32
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1162
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434516d02101d48bf8f5c70edded45cb
+      internalID: -1225510496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_33
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1160
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9149301f138a843bda5da99d6b4464e4
+      internalID: 119947267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_34
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1094
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957c1189494ea4d9bbb8f97a4bf0cb56
+      internalID: 1975321498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_35
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1066
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2dfec5a238b4858a886a482fcd911e
+      internalID: 1783560956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_36
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1034
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cab3bde297d34ae9881233cf469f3d3
+      internalID: -1147896829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_37
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 805
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f9756ab7e194417bbe5facfcb9c90f
+      internalID: 402490406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_38
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 807
+        width: 172
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedf229e794744e14914568e49368783
+      internalID: 1838954878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_39
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 912
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e8712946c42481a95510903f1381ff
+      internalID: 838626126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_40
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 778
+        width: 102
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1c97ce533074111b5324f6d0526f06
+      internalID: 1837090584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_41
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 782
+        width: 123
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5c5473cdcf44ca196f0f456beb22b4
+      internalID: -1928567013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_42
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 779
+        width: 126
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efb6d15ddaf84335ade1c72027b063d
+      internalID: 253212489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_43
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 787
+        width: 131
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fe56b15d57341e8a04157c343002a4
+      internalID: 682903244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_44
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 776
+        width: 139
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4700a6a4838bf4e29836f06f38d3f835
+      internalID: 1950410594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_45
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 780
+        width: 137
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe69f377d7ce4466ab638641c0ada056
+      internalID: -390812992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_46
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 902
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed0e33d4fe6c44d0a400b44388eb749
+      internalID: -1963527899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_47
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 810
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02a18a4b71b941c3bd102d85c8f2df1
+      internalID: -2069214889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_48
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 503
+        width: 191
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ff340e76adb47a0bd5992dcbbaf3b0
+      internalID: -1906303959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_49
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 513
+        width: 115
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e50fd2430c0459cbffb934ba1bf443
+      internalID: 519238941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_50
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 530
+        width: 175
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca06daaa55f054744a082197bec1f868
+      internalID: 1906502486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_51
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 526
+        width: 178
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a9fc77103f84b67af3df304af047df
+      internalID: -2019542609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_52
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 522
+        width: 182
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1b67315c34248c8a3c24060197c10a
+      internalID: -843145944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_53
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 521
+        width: 172
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738ad9b280ff64deca704c8fec3d169b
+      internalID: 2072686977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_54
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 513
+        width: 176
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559312a39355d4f4088a1875f88b63a3
+      internalID: -1921528025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_55
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 528
+        width: 155
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc95daeee4d34a749c124585258aa0d
+      internalID: -1124797058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_56
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 257
+        width: 173
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2242872351c542acb4c369786d76fe2
+      internalID: 2118350257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_57
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 498
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1f8d68418414b0a8cfd341e2de6eb0
+      internalID: -869054142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_58
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 271
+        width: 181
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454fda63d592d41b5a17575942288acf
+      internalID: 688623300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_59
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 269
+        width: 169
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d019794bccdba4106b45023e52d4fed4
+      internalID: 2119537678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_60
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 293
+        width: 126
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdca1f3aafcd240a9bbfa15be8c979f6
+      internalID: -2032919630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_61
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 418
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c034d4a0d5bb4a079388f9e0497227b
+      internalID: -1968201637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_62
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 390
+        width: 139
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670a287a22032486b8af20c08f358fce
+      internalID: 387937283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_63
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 351
+        width: 163
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accddcef3c7ee46329c637ef260708b2
+      internalID: 326819057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_64
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 359
+        width: 134
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc67d222010c243249a4f380b60feaba
+      internalID: 244482668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_65
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 354
+        width: 176
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc3d4740313646d7a4c0ec959c6a2cf
+      internalID: -307145727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_66
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 284
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc7dd137ece245ecb97ebddad462fc1
+      internalID: 1618862449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_67
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 329
+        width: 122
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cef0ea243d674deda2254d40ffa97e7
+      internalID: -1352818695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_68
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 8
+        width: 163
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0120f92620dc6484c8a4f8e9c09acb04
+      internalID: -1076744734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 12
+        width: 179
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4680012df066d4874beaae40bc732385
+      internalID: -2099540444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_70
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 10
+        width: 163
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc4a008bb9464c3f8c632563f5e37d4
+      internalID: -1701865095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_71
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 2
+        width: 166
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4708fbeab35a34438aaac555e37217b4
+      internalID: -846475135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_72
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 10
+        width: 162
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4f7f6cd76664fd7b477b22c5996273
+      internalID: 104963296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_73
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 39
+        width: 191
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e68ae58068ea453db40d28e687f32b9
+      internalID: -1295269578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_74
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 34
+        width: 180
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe55b4cfab93e46f98a9b9eddc5ce4bd
+      internalID: 746555921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_75
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 140
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dbd3050cf3e40bcb15f9d43bb471de
+      internalID: 269357382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_76
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 143
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd8c8394216c4bdeb12dcf7be2f7538
+      internalID: 606242815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraffitiAlphabetWhite2_77
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 33
+        width: 183
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186433b775fb94fec9168a3ce7671941
+      internalID: 871060680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 64250b4da5f824e69abf6074da31c39b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: True
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":true,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      GraffitiAlphabetWhite2_0: -417878093
+      GraffitiAlphabetWhite2_1: 1560524189
+      GraffitiAlphabetWhite2_10: -1596120516
+      GraffitiAlphabetWhite2_11: 1869019378
+      GraffitiAlphabetWhite2_12: 1399020616
+      GraffitiAlphabetWhite2_13: 2107332194
+      GraffitiAlphabetWhite2_14: 1770877433
+      GraffitiAlphabetWhite2_15: 1037808317
+      GraffitiAlphabetWhite2_16: 2120355948
+      GraffitiAlphabetWhite2_17: 518004738
+      GraffitiAlphabetWhite2_18: 1973609428
+      GraffitiAlphabetWhite2_19: -1754319469
+      GraffitiAlphabetWhite2_2: 1340815119
+      GraffitiAlphabetWhite2_20: -444110708
+      GraffitiAlphabetWhite2_21: -194662893
+      GraffitiAlphabetWhite2_22: -369714618
+      GraffitiAlphabetWhite2_23: 2094937397
+      GraffitiAlphabetWhite2_24: 1182367065
+      GraffitiAlphabetWhite2_25: 1027169390
+      GraffitiAlphabetWhite2_26: 1706772768
+      GraffitiAlphabetWhite2_27: 1149483220
+      GraffitiAlphabetWhite2_28: -866050354
+      GraffitiAlphabetWhite2_29: 1618950830
+      GraffitiAlphabetWhite2_3: 2017206781
+      GraffitiAlphabetWhite2_30: -1050840528
+      GraffitiAlphabetWhite2_31: 1370956633
+      GraffitiAlphabetWhite2_32: -1225510496
+      GraffitiAlphabetWhite2_33: 119947267
+      GraffitiAlphabetWhite2_34: 1975321498
+      GraffitiAlphabetWhite2_35: 1783560956
+      GraffitiAlphabetWhite2_36: -1147896829
+      GraffitiAlphabetWhite2_37: 402490406
+      GraffitiAlphabetWhite2_38: 1838954878
+      GraffitiAlphabetWhite2_39: 838626126
+      GraffitiAlphabetWhite2_4: -931542723
+      GraffitiAlphabetWhite2_40: 1837090584
+      GraffitiAlphabetWhite2_41: -1928567013
+      GraffitiAlphabetWhite2_42: 253212489
+      GraffitiAlphabetWhite2_43: 682903244
+      GraffitiAlphabetWhite2_44: 1950410594
+      GraffitiAlphabetWhite2_45: -390812992
+      GraffitiAlphabetWhite2_46: -1963527899
+      GraffitiAlphabetWhite2_47: -2069214889
+      GraffitiAlphabetWhite2_48: -1906303959
+      GraffitiAlphabetWhite2_49: 519238941
+      GraffitiAlphabetWhite2_5: -190076900
+      GraffitiAlphabetWhite2_50: 1906502486
+      GraffitiAlphabetWhite2_51: -2019542609
+      GraffitiAlphabetWhite2_52: -843145944
+      GraffitiAlphabetWhite2_53: 2072686977
+      GraffitiAlphabetWhite2_54: -1921528025
+      GraffitiAlphabetWhite2_55: -1124797058
+      GraffitiAlphabetWhite2_56: 2118350257
+      GraffitiAlphabetWhite2_57: -869054142
+      GraffitiAlphabetWhite2_58: 688623300
+      GraffitiAlphabetWhite2_59: 2119537678
+      GraffitiAlphabetWhite2_6: 1842409747
+      GraffitiAlphabetWhite2_60: -2032919630
+      GraffitiAlphabetWhite2_61: -1968201637
+      GraffitiAlphabetWhite2_62: 387937283
+      GraffitiAlphabetWhite2_63: 326819057
+      GraffitiAlphabetWhite2_64: 244482668
+      GraffitiAlphabetWhite2_65: -307145727
+      GraffitiAlphabetWhite2_66: 1618862449
+      GraffitiAlphabetWhite2_67: -1352818695
+      GraffitiAlphabetWhite2_68: -1076744734
+      GraffitiAlphabetWhite2_69: -2099540444
+      GraffitiAlphabetWhite2_7: 627631269
+      GraffitiAlphabetWhite2_70: -1701865095
+      GraffitiAlphabetWhite2_71: -846475135
+      GraffitiAlphabetWhite2_72: 104963296
+      GraffitiAlphabetWhite2_73: -1295269578
+      GraffitiAlphabetWhite2_74: 746555921
+      GraffitiAlphabetWhite2_75: 269357382
+      GraffitiAlphabetWhite2_76: 606242815
+      GraffitiAlphabetWhite2_77: 871060680
+      GraffitiAlphabetWhite2_8: 877330029
+      GraffitiAlphabetWhite2_9: -1819722775
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
