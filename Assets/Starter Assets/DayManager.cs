@@ -44,6 +44,27 @@ public class DayManager : MonoBehaviour
         Instance = this;
     }
 
+    public void ResetToFirstDay()
+    {
+        if (days.Count == 0)
+        {
+            Debug.LogWarning("[DayManager] Cannot reset — no days configured.");
+            return;
+        }
+
+        Debug.Log("[DayManager] ↺ Resetting to first day.");
+
+        // Cancel any in-progress tasks on the current day
+        if (CurrentDay != null)
+        {
+            foreach (var task in CurrentDay.tasks)
+                if (task != null) task.ResetTask();
+        }
+
+        CurrentDayIndex = -1;
+        StartDay(0);
+    }
+
     // =========================================================================
     //  DayData — one entry per day
     // =========================================================================

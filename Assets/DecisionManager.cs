@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using TMPro;
 using UnityEngine.Events; // Needed for UnityEvent
 
@@ -23,6 +23,25 @@ public class DecisionManager : MonoBehaviour
             decisionPanel.SetActive(false);
 
         Debug.Log("Choice made. Points: " + pointValue);
+    }
+
+    public void ResetDecisions()
+    {
+        // Reset score
+        totalScore = 0;
+        if (scoreText != null)
+            scoreText.text = "Score: " + totalScore;
+
+        // Hide all ending screens
+        if (targetPositiveEnding != null) targetPositiveEnding.SetActive(false);
+        if (targetNeutralEnding != null) targetNeutralEnding.SetActive(false);
+        if (targetNegativeEnding != null) targetNegativeEnding.SetActive(false);
+
+        // Re-show the decision panel
+        if (decisionPanel != null)
+            decisionPanel.SetActive(true);
+
+        Debug.Log("[DecisionManager] ↺ Reset. Score cleared, decision panel restored.");
     }
 
     public void startRightEnding()
